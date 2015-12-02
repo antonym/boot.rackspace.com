@@ -1,5 +1,7 @@
 ## boot.rackspace.com (preview)
 
+[![Join the chat at https://gitter.im/antonym/boot.rackspace.com](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/antonym/boot.rackspace.com?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 ### What is boot.rackspace.com?
 
 boot.rackspace.com is a collection of iPXE scripts that allow you to rapidly network boot Operating Systems, Utilities and other tools very easily.  It allows you the flexibility of booting installations without having to go track down and download installation media.  It's especially useful for remote access environments when you don't want to utilize remote attach CD in a Dell DRAC, HP iLO or some other type of remote tool.  It's especially awesome for bootstrapping your own custom installation on a Cloud Server!
